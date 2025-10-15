@@ -1,0 +1,110 @@
+This hat is hard.wav
+This hat is soft.wav
+My hands are stick.wav
+My hands are dry.wav
+This rock is smooth.wav
+This rock is rough.wav
+This apple is delicious.wav
+This apple is terrible.wav
+our_senses_song.wav
+the_pizza_smells_great.wav
+the_dress_looks_beautiful.wav
+the_helicopter_sounds_loud.wav
+the_cat_feels_soft.wav
+how_does_the_apple_taste.wav
+how_do_the_tables_feel.wav
+it_tastes_delicious.wav
+they_feel_hard.wav
+This looks beautiful.wav
+This smells terrible.wav
+This feels sticky.wav
+This feels dry.wav
+This tastes terrible.wav
+This tastes delicious.wav
+the_sun_feels_hot.wav
+the_books_look_old.wav
+how_do_the_sandwiches_taste.wav
+how_does_the_drum_sound.wav
+how_does_the_bread_taste_question.wav
+how_does_the_bread_taste_answer.wav
+how_does_the_sock_smell_question.wav
+how_does_the_sock_smell_answer.wav
+how_do_the_rocks_feel_question.wav
+how_do_the_rocks_feel_answer.wav
+how_do_the_old_cars_look_question.wav
+how_do_the_old_cars_look_answer.wav
+how_does_the_parrot_sound_question.wav
+how_does_the_parrot_sound_answer.wav
+delicious.wav
+beautiful.wav
+colorful.wav
+fresh.wav
+appetizing.wav
+golden.wav
+burnt.wav
+plain.wav
+amazing.wav
+fragrant.wav
+sweet.wav
+spicy.wav
+fresh_smell.wav
+strong.wav
+burnt_smell.wav
+sour.wav
+delicious_taste.wav
+sweet_taste.wav
+sour_taste.wav
+bitter.wav
+salty.wav
+spicy_taste.wav
+bland.wav
+tangy.wav
+rich.wav
+juicy.wav
+pizza_looks_question.wav
+pizza_smells_question.wav
+pizza_tastes_question.wav
+pizza_looks_answer.wav
+pizza_smells_answer.wav
+pizza_tastes_answer.wav
+my_mother_drinks_tea_answer.wav
+lemons_are_sour_answer.wav
+peppers_in_soup_answer.wav
+cheese_pizza_answer.wav
+this_apple_answer.wav
+my_mother_drinks_tea_question.wav
+lemons_are_sour_question.wav
+peppers_in_soup_question.wav
+cheese_pizza_question.wav
+this_apple_question.wav
+apples_are_sweet.wav
+sometimes_apples_are_sour.wav
+bananas_are_sweet.wav
+cheese_is_salty.wav
+chips_are_salty.wav
+cookies_are_sweet.wav
+mangoes_are_sweet.wav
+sometimes_mangoes_are_sour.wav
+nuts_are_salty.wav
+oranges_are_sour.wav
+peppers_are_spicy.wav
+salad_can_taste_bitter.wav
+soup_can_be_salty.wav
+tea_tastes_bitter.wav
+yogurt_tastes_sour.wav
+Stinky Animals and Plants.wav
+Many things smell good.wav
+Apple trees, flowers, and the ocean all smell great.wav
+But some animals and plants smell terrible.wav
+The Eastern snake-necked turtle lives in fresh water in eastern Autralia.wav
+This turtle has a really long neck that looks like a snake.wav
+If you catch an Eastern snake-necked turtle, it smells terrible.wav
+Some people think it smells like a skunk.wav
+In Autralia, people call this turtle the _stinker_.wav
+Many flowers smell good, but the rafflesia doesn't.wav
+It smells terrible.wav
+The refflesia is the biggest flower in the world.wav
+It's almost one meter (three feet) wide.wav
+The rafflesia grows in southeastern Asia.wav
+The rafflesia smells like old meat.wav
+Flies like the smell, and they fly to the rafflesia flower.wav
